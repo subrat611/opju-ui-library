@@ -1,0 +1,31 @@
+{
+  "name": "opju-ui-library",
+  "version": "1.0.0",
+  "description": "A simple, customised UI library built on the top of Material UI.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subrat611/opju-ui-library.git"
+  },
+  "keywords": [
+    "opju",
+    "ui",
+    "library"
+  ],
+  "author": "Subrat Kumar Jena <subratj611@gmail.com> (https://github.com/subrat611)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subrat611/opju-ui-library/issues"
+  },
+  "homepage": "https://github.com/subrat611/opju-ui-library#readme",
+  "dependencies": {
+    "@emotion/react": "11.11.1",
+    "@emotion/styled": "11.11.0",
+    "@mui/lab": "5.0.0-alpha.135",
+    "@mui/material": "5.13.7",
+    "@mui/system": "5.13.7"
+  }
+}
