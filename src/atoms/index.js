@@ -1,6 +1,3 @@
-// Button
-export { default as OpButton } from "./Button";
-export { OpLoadingButton } from "./Button/OpButton.style";
+import OpButton from "./Button";
 
-// TextField
-export { default as OpTextField } from "./TextField";
+export { OpButton };
